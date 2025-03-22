@@ -1,4 +1,13 @@
-## Hi there 👋
+## *йоу*
+
+FEFU 1 курс: 
+---
+- Работаю над **тетрисом** с *Ванечкой (@Bananososik) Низовцевым*.
+- Ем _кэфэсэ_ и вкусочку
+- Немного прогаю
+- кайфуем
+![mrlurker2](https://github.com/user-attachments/assets/bbd13b42-6b3f-47ea-9e18-52c24388fab4)
+
 
 <!--
 **Donakass/Donakass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
